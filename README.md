@@ -16,8 +16,7 @@ I'm Hifza Emaan, a Frontend Developer and Founder & CEO of Emaan Tech. I enjoy b
 * React
 * Bootstrap
 * Tailwind CSS
-* Chakra UI
-* Figma
+
 
 ### Backend & Database
 
