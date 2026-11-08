@@ -25,7 +25,7 @@ I'm Hifza Emaan, a Frontend Developer and Founder & CEO of Emaan Tech. I enjoy b
 * PostgreSQL
 * MongoDB
 * Firebase
-* nextjs
+
 
 ### Tools & Platforms
 
